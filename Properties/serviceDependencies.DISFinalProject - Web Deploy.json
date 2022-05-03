@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/dis22/databases/DIS",
+      "type": "mssql.azure",
+      "connectionId": "DISFinalProjectContext",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
